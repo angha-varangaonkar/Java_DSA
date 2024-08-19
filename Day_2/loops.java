@@ -6,6 +6,8 @@ public class loops {
          }
          */
 
+         // for loop is used when we know for how many times the loop will run
+
             // i++
          for(int i=1;i<=5;i+=2)
          {

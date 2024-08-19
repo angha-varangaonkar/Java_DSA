@@ -5,11 +5,12 @@ public class whilwloop {
             // body
             }
          */
+        // use wile when u dont know how many times the loop will run 
 
          int num=1;
          while (num <=10) {
             System.out.println(num);
-            num+=2;
+            num+=1;
             
          }
 
